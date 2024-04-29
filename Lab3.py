@@ -2,6 +2,7 @@ print("Lab 3 - Software Unit Testing with PyTest")
 
 SORT_ASCENDING = 0
 SORT_DESCENDING = 1
+dummy=56
 
 
 def bubble_sort(arr, sorting_order):
